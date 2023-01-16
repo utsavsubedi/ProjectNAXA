@@ -21,6 +21,12 @@ Then move into project directory
 Then simply apply the migrations:
 
     $ python manage.py migrate
+    
+ Crete superuser for accessing database through django admin:
+ 
+    $ python manage.py createsuperuser
+ 
+ Then enter username, email and password.
 
 You can now run the development server:
 
