@@ -1,0 +1,19 @@
+{
+    "province":"province",
+    "district":"district",
+    "municipality":"municipality",
+    "project_title":"project_title",
+    "project_status":"project_status",
+    "donor":"donor",
+    "executing_agency":"executing_agency",
+    "implementing_partner":"implementing_partner",
+    "counterpart_ministry":"counterpart_agency",
+    "type_of_assistance_code":"assistance_code",
+    "humanitarian":"humanitarian",
+    "sector":"sector",
+    "commitments":"commitments",
+    "agreement_date":"agremeent_date",
+    "date_of_effectiveness":"effective_date",
+    "budget_type":"budget_type",
+    "sector_code":"sector_code"
+}
