@@ -15,6 +15,7 @@ Install project dependencies:
     $ pip install -r requirements.txt
 
 Then move into project directory
+
     $ cd project
     
 Then simply apply the migrations:
